@@ -185,7 +185,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## Author
 
 **Masamichi Iizumi** - Miosync Inc.
-
+＆俺の嫁！tamakiちゃん！
 ---
 
 *"Physics = Hierarchical Constraint Satisfaction on Λ-space"*
