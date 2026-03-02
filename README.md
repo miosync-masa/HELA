@@ -149,17 +149,6 @@ HELA/
     └── (sample scripts)
 ```
 
-## Theoretical Foundation
-
-This framework is based on:
-
-1. **Consonance Tensor** - Spectral theory for interval consonance
-   - Iizumi, M. (2025). "On the Consonance of Prime Factorization"
-   - DOI: 10.5281/zenodo.XXXXXXX
-
-2. **Energy Landscape Theory** - Lagrangian mechanics for music
-   - See paper: "Beyond Tags: An Energy Landscape Approach to Interpretable Training Data for Music AI"
-
 ### Why Three Tiers?
 
 - **Tier 1 alone** cannot distinguish V from I (same consonance)
@@ -185,6 +174,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## Author
 
 **Masamichi Iizumi** - Miosync Inc.
----
 
-*"Physics = Hierarchical Constraint Satisfaction on Λ-space"*
